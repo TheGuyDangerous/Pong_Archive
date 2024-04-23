@@ -1,4 +1,4 @@
-name: Pong Firmware Dumper
+name: Pong Stock ROM Dumper
 
 on:
   workflow_dispatch:
